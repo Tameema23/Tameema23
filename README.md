@@ -27,4 +27,4 @@ Computer Science student at the **University of Calgary** (2023–2027) with a f
 ## 📫 Contact
 
 - Email: tameemaboueldahab@gmail.com
-- LinkedIn: [linkedin.com/in/tameem-hazem](linkedin.com/in/tameem-hazem)
+- LinkedIn: [linkedin.com/in/tameem-hazem](https://linkedin.com/in/tameem-hazem)
