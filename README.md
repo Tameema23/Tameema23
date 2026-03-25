@@ -13,7 +13,6 @@ Computer Science student at the **University of Calgary** (2023–2027) with a f
 | [Atari ST Fruit Basket](https://github.com/Tameema23/atari-st-fruit-basket) | Double-buffered 2D arcade game with custom raster graphics and PSG sound on real Atari ST hardware | C, 68000 Assembly |
 | LTCaiPro | AI-powered caregiver training platform with Groq AI avatar simulation and rubric-based scoring | React, FastAPI, PostgreSQL, Groq AI |
 
-> LTCaiPro is a private team project — demo available on request.
 
 ---
 
