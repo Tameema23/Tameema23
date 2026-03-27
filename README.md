@@ -1,6 +1,7 @@
 # Tameem Aboueldahab
 
-Computer Science student at the **University of Calgary** (2023--2027) with a focus on full-stack development, systems programming, and AI integration. I build production-ready web systems, low-level embedded software, and AI-powered platforms.
+Computer Science student at the University of Calgary (2023-2027).
+I build full-stack web applications, embedded systems, and AI-powered tools.
 
 ---
 
@@ -8,24 +9,24 @@ Computer Science student at the **University of Calgary** (2023--2027) with a fo
 
 | Project | Description | Stack |
 |---|---|---|
-| [Sales KPI & Operations Dashboard](https://github.com/Tameema23/kpi-dashboard) | Production multi-user KPI platform with RBAC, JWT auth, real-time analytics, and appointment planning | FastAPI, Python, SQLite, JavaScript, Chart.js |
-| [BrightCore Merch Store](https://github.com/Tameema23/brightcore-merch-store) | Internal merch order & fulfillment system with normalized relational DB and atomic transactions | React, Django, MySQL |
-| [Atari ST Fruit Basket](https://github.com/Tameema23/atari-st-fruit-basket) | Double-buffered 2D arcade game with custom raster graphics and PSG sound on real Atari ST hardware | C, 68000 Assembly |
-| LTCaiPro | AI-powered caregiver training platform with Groq AI avatar simulation and rubric-based scoring | React, FastAPI, PostgreSQL, Groq AI |
-
-> LTCaiPro is a private team project -- demo available on request.
+| [Algorithm Visualizer](https://github.com/Tameema23/algorithm-visualizer) | Interactive 3D visualizer for 15+ sorting, pathfinding, graph, and tree algorithms -- [Live](https://algoviz.vercel.app) | React, Three.js, Framer Motion |
+| [ASL Sign Detector](https://github.com/Tameema23/asl-detection) | Real-time ASL hand sign recognition via webcam, trained on custom collected data | Python, PyTorch, MediaPipe, FastAPI |
+| [Moodify](https://github.com/Tameema23/spotify-playlist-gen) | AI playlist generator that creates Spotify playlists from a mood prompt | React, FastAPI, Groq AI, Spotify API |
+| [RateMySchedule](https://github.com/Tameema23/ratemyschedule) | Course planning platform for UofC students with real reviews and AI workload analysis | React, FastAPI, PostgreSQL, Groq AI |
+| [KPI Dashboard](https://github.com/Tameema23/kpi-dashboard) | Production KPI management system with RBAC, JWT auth, real-time analytics, and PWA support -- [Live](https://data-log.onrender.com) | FastAPI, SQLite, JavaScript, Chart.js |
+| [Atari ST Game](https://github.com/Tameema23/atari-st-fruit-basket) | 2D arcade game built in 68000 Assembly and C for real Atari ST hardware | 68000 Assembly, C, ISRs |
 
 ---
 
 ## Tech Stack
 
-**Proficient:** Python · C · C++ · JavaScript · SQL · HTML/CSS · FastAPI · React · SQLAlchemy · REST APIs · JWT · PostgreSQL · SQLite · MySQL · Git · Docker
+**Proficient:** Python, C, C++, JavaScript, React, FastAPI, SQL, REST APIs, JWT, PostgreSQL, SQLite, Git, Docker
 
-**Familiar:** Django · Next.js · Assembly (68000) · Groq AI · LLM Integration · WebXR · NumPy · pandas · tRPC · Prisma
+**Familiar:** PyTorch, MediaPipe, OpenCV, Assembly (68000), Groq AI, LLM Integration, Embedded Systems, IoT, NumPy, pandas
 
 ---
 
-## Contact
+## Connect
 
-- Email: tameemaboueldahab@gmail.com
 - LinkedIn: [linkedin.com/in/tameem-hazem](https://linkedin.com/in/tameem-hazem)
+- Email: tameemaboueldahab@gmail.com
